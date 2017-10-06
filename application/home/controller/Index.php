@@ -11,6 +11,8 @@ namespace app\home\controller;
 use app\home\model\Document;
 use OT\DataDictionary;
 use think\Config;
+use think\Db;
+
 /**
  * 前台首页控制器
  * 主要获取首页聚合数据
@@ -28,5 +30,45 @@ class Index extends Home{
 
         return $this->fetch();
     }
+    //小区通知
+    public function notice(){
 
+        $notice = Db::name('document')->where('status'>-1)->whereOr('category_id','=', 45)->order('id desc')->paginate(3);
+
+        // 获取分页显示
+        $page = $notice->render();
+        $this->assign('list', $notice);
+        $this->assign('page', $page);
+        $this->assign('meta_title' , '小区通知');
+        return  $this->fetch('notice');
+    }
+    //通知详情
+    public function detail($id){
+        $content = Db::name('document_article')->where('id','=',$id)->order('id desc')->paginate(3);
+        // 获取分页显示
+        $page = $content->render();
+        $this->assign('list', $content);
+        $this->assign('page', $page);
+        $this->assign('meta_title' , '通知详情');
+        return  $this->fetch('detail');
+
+    }
+    public function service(){
+        $content = Db::name('document')->where('status'>-1)->whereOr('category_id','=', 44)->order('id desc')->paginate(3);
+        // 获取分页显示
+        $page = $content->render();
+        $this->assign('list', $content);
+        $this->assign('page', $page);
+        $this->assign('meta_title' , '通知详情');
+        return  $this->fetch('service');
+    }
+    public function shop(){
+        $content = Db::name('document')->where('status'>-1)->whereOr('category_id','=', 46)->order('id desc')->paginate(3);
+        // 获取分页显示
+        $page = $content->render();
+        $this->assign('list', $content);
+        $this->assign('page', $page);
+        $this->assign('meta_title' , '通知详情');
+        return  $this->fetch('shop');
+    }
 }

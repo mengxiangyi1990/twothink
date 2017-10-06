@@ -2,863 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4471c207-c5f8-420d-8c0a-5925c7d57a04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/public/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/public/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/public/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/public/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/010.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/012.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/013.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/016.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/017.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/018.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/019.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/020.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/021.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/022.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/023.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/025.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/026.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/027.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/028.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/029.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/030.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/031.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/032.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/033.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/034.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/035.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/036.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/037.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/038.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/039.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/040.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/041.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/042.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/043.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/044.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/045.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/046.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/047.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/048.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/049.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/050.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/051.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/052.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/053.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/054.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/055.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/056.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/057.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/058.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/059.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/060.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/061.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/062.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/063.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/064.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/065.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/066.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/067.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/068.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/069.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/07.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/070.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/071.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/072.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/073.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/074.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/075.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/076.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/077.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/078.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/079.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/08.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/080.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/081.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/082.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/083.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/084.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/085.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/086.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/087.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/088.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/089.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/09.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/090.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/091.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/092.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/093.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/094.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/095.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/096.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/097.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/098.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/images/099.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/addons/digg/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/addons/digg/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/addons/digg/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/addons/digg/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/attachment_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/bg_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/blue_color/bg_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/count_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/icon24_login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/loading_icon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/login_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/subnav_current.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/images/tab_sign.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/64x64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/addons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/comment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/division.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/help_more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/ico.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/ico1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/ico1_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/intro/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/intro/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/intro/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/intro/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/intro/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/intro/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/intro/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/intro/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/intro/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/one_think.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/one_thinktit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink/cloud-service.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink/cloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink/documentmodel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink/modules.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink/opensource.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink/safe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink/thinkphp3.2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink/useraction.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/onethink/warehouse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/release_topic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/renren.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/round_mask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/sina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/slide_arrow_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/slide_arrow_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/sort_list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/template.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/temporary/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/temporary/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/temporary/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/temporary/verify.html.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/u21_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/u22_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/view.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/images/weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/install/img/bs-docs-masthead-pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/install/img/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/install/img/ok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/install/img/status.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploads/download/20170110/1f3c80e4d5aff61138db214a1e3e1399.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploads/download/20170110/215312b79929a694e0fc729d07acbd6b.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploads/editor/20170110/b1dc56d2b200f39b622a9f6984793fa9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploads/picture/20170104/8279227f38b6e9fdb4c02e906835b8db.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploads/picture/20170221/14e61c2e224c05d95aeda334240e7c3b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/bin/hiddeninput.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/attachment/Attachment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/attachment/adminlist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/attachment/controller/Attachment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/attachment/model/Attachment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/attachment/view/Article/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/attachment/view/Article/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/attachment/view/Config/config.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/devteam/Devteam.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/devteam/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/devteam/widget.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/Digg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/controller/Digg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/public/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/public/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/public/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/digg/vote.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/editor/Editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/editor/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/editor/content.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/editor/controller/Upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/editorforadmin/Editorforadmin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/editorforadmin/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/editorforadmin/content.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/editorforadmin/controller/Upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/editorforadmin/marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/qiubai/Qiubai.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/qiubai/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/qiubai/controller/QiuBai.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/qiubai/widget.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/Returntop.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/config.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/content.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/01.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/010.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/011.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/012.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/013.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/014.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/015.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/016.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/017.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/018.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/019.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/02.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/020.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/021.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/022.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/023.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/024.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/025.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/026.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/027.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/028.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/029.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/03.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/030.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/031.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/032.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/033.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/034.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/035.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/036.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/037.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/038.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/039.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/04.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/040.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/041.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/042.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/043.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/044.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/045.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/046.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/047.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/048.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/049.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/05.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/050.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/051.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/052.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/053.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/054.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/055.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/056.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/057.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/058.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/059.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/06.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/060.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/061.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/062.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/063.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/064.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/065.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/066.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/067.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/068.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/069.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/07.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/070.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/071.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/072.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/073.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/074.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/075.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/076.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/077.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/078.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/079.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/08.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/080.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/081.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/082.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/083.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/084.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/085.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/086.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/087.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/088.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/089.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/09.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/090.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/091.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/092.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/093.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/094.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/095.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/096.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/097.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/098.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/css/099.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/returntop/public/scrolltopcontrol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/sitestat/Sitestat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/sitestat/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/sitestat/info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/socialcomment/Socialcomment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/socialcomment/comment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/socialcomment/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/systeminfo/Systeminfo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/systeminfo/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/systeminfo/widget.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/Thirdlogin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/controller/Oauth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/controller/Register.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/lib/Qzone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/lib/Sina.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/lib/ThinkOauth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/lib/sina/SaeTOAuthV2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/oauth.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/thirdlogin/view/default/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Action.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Addons.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Article.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Attribute.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/AuthManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Channel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Independent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Publics.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Repair.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Think.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Action.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Addons.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Attribute.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/AuthGroup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/AuthRule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Channel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Hooks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Member.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Modelmodel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Picture.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Repair.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Url.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Action.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Attribute.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/AuthGroup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Channel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Document.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/Repair.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/UcenterMember.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/validate/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/action/actionlog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/action/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/addons/adminlist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/addons/config.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/addons/create.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/addons/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/addons/edithook.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/addons/hooks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/addons/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/batchoperate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/draftbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/examine.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/mydocument.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/recycle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/sidemenu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/article/sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/attribute/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/attribute/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/auth_manager/category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/auth_manager/editgroup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/auth_manager/group.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/auth_manager/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/auth_manager/managergroup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/auth_manager/tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/auth_manager/user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/category/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/category/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/category/operate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/category/tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/channel/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/channel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/channel/sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/config/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/config/group.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/config/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/config/sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/database/export.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/database/import.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/batchoperate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/draftbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/examine.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/mydocument.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/recycle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/sidemenu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/independent/sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/index/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/menu/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/menu/import.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/menu/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/menu/sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/model/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/model/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/model/generate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/model/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/public/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/public/error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/public/exception.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/public/success.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/publics/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/qiniu/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/repair/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/repair/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/think/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/think/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/think/lists.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/update/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/user/action.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/user/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/user/editaction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/user/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/user/updatenickname.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/user/updatepassword.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/command.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/behavior/InitHook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/common/function.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/common/uc_function.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/controller/Addon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/controller/CategoryApi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/controller/Common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/controller/ConfigApi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/controller/ModelApi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/controller/UcApi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/controller/UserApi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/logic/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/logic/Document.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/logic/DocumentArticle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/logic/DocumentDownload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/logic/Independent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/model/AddonsBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/model/Tree.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/model/UcenterMember.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/taglib/Article.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/taglib/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/taglib/Think.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/validate/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/validate/DocumentArticle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/validate/Repair.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/common/validate/UcenterMember.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Addons.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Appstore.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Article.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/logic/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/logic/DocumentDownload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Channel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Document.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Picture.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/validate/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/addons/_edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/addons/_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/appstore/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/article/article/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/article/download/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/article/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/article/lists.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/base/common.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/base/var.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/category/lists.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/index/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/user/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/widget/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/controller/Index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/controller/Install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/data/config.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/data/database.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/data/install.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/data/tags.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/data/update.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/view/index/complete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/view/index/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/view/install/step1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/view/install/step2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/view/install/step3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/view/install/update.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/install/view/public/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/controller/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/controller/Index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/controller/Login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/controller/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/model/AuthRule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/model/Member.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/view/default/base/common.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/view/default/base/var.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/view/default/login/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/view/default/login/index1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/view/default/login/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/view/default/user/profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/user/view/default/user/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extend/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/jquery-1.11.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/router.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/addons/digg/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/addons/digg/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/addons/digg/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/css/addons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/css/blue_color.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/css/default_color.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/css/module.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/bootstrap_alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/clike.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/php.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/3024-day.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/3024-night.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/ambiance-mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/ambiance.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/base16-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/base16-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/blackboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/cobalt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/eclipse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/elegant.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/erlang-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/lesser-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/midnight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/monokai.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/neat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/night.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/paraiso-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/paraiso-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/rubyblue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/solarized.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/the-matrix.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/tomorrow-night-eighties.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/twilight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/vibrant-ink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/xq-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/theme/xq-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/codemirror/xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/glDatePicker/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/glDatePicker/glDatePicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/glDatePicker/glDatePicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/glDatePicker/styles/glDatePicker.darkneon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/glDatePicker/styles/glDatePicker.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/glDatePicker/styles/glDatePicker.flatwhite.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/jquery.mousewheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/js/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/data/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/data/install.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/addons/attachment/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/css/ThinkBox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/home/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/install/css/install.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/static/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploads/download/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploads/editor/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/uploads/picture/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/cache/2b/b202459c30a1628513f40ab22fa01a.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/cache/4e/819c837d54a6ed09abc77a8560a66f.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/cache/50/e42e2e0c46db6eb01ed4a3be845c44.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/cache/cb/c58bd3cdec352c980d0ad729b5c219.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/html.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/01b3637a955b426b55e233c3230bc60b.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/059dc4973bae3e8c559e6bbb1d4d8fe4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/0a1486423619879d160c58c75d93a707.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/0b9a4c9cad8488d7021ebbcbcc68786e.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/13ad9c06b5017b6848d5e657dbd71df5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/16ae644efb2e48a38e683be84fce7eae.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/1b569799dff19f380397fe360327a97d.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/1e8414b5e9359fc7adaa2de06f0709f0.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/247bf1c6f9b8627dc031585d771daaf9.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/285ee217c00c41d65722f5d2ae186bd8.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/4ec5e7596ec1935f914fd7d3a3e12af2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/505b8be531131e050620f37477a22508.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/5641f9bda4e03cf9a9f52a76e7950e54.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/5d44ee1705035d4531ddfdbba6eea310.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/642a281993f5bb85f1e385c8e83062ad.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/6cc0f332d7e5cc84df05236ea7ae38e5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/6f7eabfc8d7c6f6a577d0436d2d90e05.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/7c643570adb4f3dfbc0f11009ff66520.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/837293718f5b8e58e37f7f02ce111799.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/8a5ee68ccf8edaeec735c1cb3c440d2c.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/9f0b777925a7d9da983e2b3fccba7da0.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/a3c4d08162436c0eab6a2ec39a8df8f3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/a54682353b27b89757aa1e3680becfe6.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/a63719b5e41b8accc0088c6b6befa9ac.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/c45551a00ea551b233c88df4aacc3f03.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/c50ffbb1a1d9648f8b92dff89f0663e9.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/c842dd3ed3e26ae5c8de4c9d7b2f67d9.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/ddfb046fb2beed14ef10b610a47a121f.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/df67d5690c11396104823f85d5937a22.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/ecc4a85ca913a6de62339fde45959ce5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/eed4091ad947c3f5aa81c72c103a17bb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/f39be1430315392110011967c57ecc71.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime/temp/fb377fd5fbdc278d4ded36cfd07b32fa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/codecov.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/convention.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/lang/zh-cn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/App.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Build.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Collection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Cookie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Debug.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Env.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Hook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Paginator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Process.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Url.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/Validate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/Driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Lite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Memcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Memcached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Redis.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Sqlite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Wincache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Xcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Ini.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Json.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Xml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/Command.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/Input.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/Output.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/bin/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Build.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Clear.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Help.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Lists.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Make.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/controller.plain.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/controller.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/model.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Schema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/input/Argument.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/input/Definition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/input/Option.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Ask.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Descriptor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Formatter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Question.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/descriptor/Console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/driver/Buffer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/driver/Console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/driver/Nothing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/formatter/Stack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/formatter/Style.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/question/Choice.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/question/Confirmation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/controller/Rest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/controller/Yar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Connection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Mysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Pgsql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Sqlite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Sqlsrv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Mysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Pgsql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Sqlite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Sqlsrv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/pgsql.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/exception/BindParamException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/exception/DataNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/exception/ModelNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/debug/Console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/debug/Html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ClassNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/DbException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ErrorException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/Handle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/HttpException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/HttpResponseException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/PDOException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/RouteNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/TemplateNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ThrowableError.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ValidateException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/Socket.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/Test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Collection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Merge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Pivot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Relation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/BelongsTo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/BelongsToMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/HasMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/HasManyThrough.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/HasOne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/MorphMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/MorphTo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/OneToOne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/paginator/driver/Bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/Utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Failed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Timeout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Pipes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Unix.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Windows.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Json.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Jsonp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Redirect.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Xml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Memcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Memcached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Redis.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/TagLib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/driver/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/taglib/Cx.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/view/driver/Php.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/think/view/driver/Think.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/traits/controller/Jump.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/traits/model/SoftDelete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/library/traits/think/Instance.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/start.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tpl/default_index.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tpl/dispatch_jump.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tpl/page_trace.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thinkphp/tpl/think_exception.tpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/升级说明.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/说明.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/iconfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/image/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/image/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/image/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/image/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/image/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/image/index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Active.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/controller/Sale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/model/Sale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/sale/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/admin/view/default/sale/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/controller/Repair.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/model/Repair.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/index/detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/index/notice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/index/service.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/index/shop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/home/view/default/repair/repair.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/iconfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/admin/controller/Admin.php" afterPath="$PROJECT_DIR$/application/admin/controller/Admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/admin/controller/Article.php" afterPath="$PROJECT_DIR$/application/admin/controller/Article.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/admin/controller/Repair.php" afterPath="$PROJECT_DIR$/application/admin/controller/Repair.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/admin/view/default/repair/index.html" afterPath="$PROJECT_DIR$/application/admin/view/default/repair/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/home/controller/Index.php" afterPath="$PROJECT_DIR$/application/home/controller/Index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/home/view/default/index/index.html" afterPath="$PROJECT_DIR$/application/home/view/default/index/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/cache/cb/c58bd3cdec352c980d0ad729b5c219.php" afterPath="$PROJECT_DIR$/runtime/cache/cb/c58bd3cdec352c980d0ad729b5c219.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/log/201709/30.log" afterPath="$PROJECT_DIR$/runtime/log/201709/30.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/temp/5641f9bda4e03cf9a9f52a76e7950e54.php" afterPath="$PROJECT_DIR$/runtime/temp/5641f9bda4e03cf9a9f52a76e7950e54.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/temp/c50ffbb1a1d9648f8b92dff89f0663e9.php" afterPath="$PROJECT_DIR$/runtime/temp/c50ffbb1a1d9648f8b92dff89f0663e9.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -870,17 +46,34 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/user/view/default/login/index.html">
+      <file leaf-file-name="Sale.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/admin/controller/Sale.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="108">
+              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/admin/view/default/sale/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -898,7 +91,6 @@
         <option value="$PROJECT_DIR$/thinkphp/helper.php" />
         <option value="$PROJECT_DIR$/application/common/validate/Repari.php" />
         <option value="$PROJECT_DIR$/application/common/validate/Repair.php" />
-        <option value="$PROJECT_DIR$/application/admin/view/default/repair/index.html" />
         <option value="$PROJECT_DIR$/application/admin/view/default/repair/edit.html" />
         <option value="$PROJECT_DIR$/application/admin/controller/Pulbic.php" />
         <option value="$PROJECT_DIR$/application/home/view/default/user/login.html" />
@@ -906,10 +98,33 @@
         <option value="$PROJECT_DIR$/application/admin/validate/login.php" />
         <option value="$PROJECT_DIR$/application/admin/controller/Login.php" />
         <option value="$PROJECT_DIR$/application/admin/view/default/login/login.html" />
-        <option value="$PROJECT_DIR$/application/admin/controller/Repair.php" />
         <option value="$PROJECT_DIR$/application/admin/model/Repair.php" />
         <option value="$PROJECT_DIR$/application/user/view/default/login/index.html" />
+        <option value="$PROJECT_DIR$/application/home/view/default/notice/index.html" />
+        <option value="$PROJECT_DIR$/application/home/view/default/notice/notice.html" />
+        <option value="$PROJECT_DIR$/application/home/controller/notice.php" />
+        <option value="$PROJECT_DIR$/application/admin/controller/Repair.php" />
+        <option value="$PROJECT_DIR$/application/home/view/default/repair/test.html" />
+        <option value="$PROJECT_DIR$/application/home/view/default/repair/index.html" />
         <option value="$PROJECT_DIR$/application/user/controller/Login.php" />
+        <option value="$PROJECT_DIR$/application/home/model/Repair.php" />
+        <option value="$PROJECT_DIR$/application/home/view/default/repair/repair.html" />
+        <option value="$PROJECT_DIR$/application/home/controller/Repair.php" />
+        <option value="$PROJECT_DIR$/application/admin/view/default/repair/index.html" />
+        <option value="$PROJECT_DIR$/application/admin/controller/Article.php" />
+        <option value="$PROJECT_DIR$/application/admin/controller/Active.php" />
+        <option value="$PROJECT_DIR$/application/home/view/default/index/content.html" />
+        <option value="$PROJECT_DIR$/application/home/view/default/index/notice.html" />
+        <option value="$PROJECT_DIR$/application/home/view/default/index/detail.html" />
+        <option value="$PROJECT_DIR$/application/home/view/default/index/service.html" />
+        <option value="$PROJECT_DIR$/application/home/view/default/index/index.html" />
+        <option value="$PROJECT_DIR$/application/home/controller/Index.php" />
+        <option value="$PROJECT_DIR$/application/home/view/default/index/shop.html" />
+        <option value="$PROJECT_DIR$/application/admin/controller/sale.php" />
+        <option value="$PROJECT_DIR$/application/admin/view/default/sale/index.html" />
+        <option value="$PROJECT_DIR$/application/admin/model/Sale.php" />
+        <option value="$PROJECT_DIR$/application/admin/view/default/sale/edit.html" />
+        <option value="$PROJECT_DIR$/application/admin/controller/Sale.php" />
       </list>
     </option>
   </component>
@@ -921,11 +136,14 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-6" />
-    <option name="width" value="1378" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -968,6 +186,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twothink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twothink" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -976,10 +212,12 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yii2shop" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\twothink\application\home\view\default\index" />
       <recent name="D:\phpStudy\WWW\twothink\public" />
       <recent name="D:\phpStudy\WWW\twothink\application\user\view\default\login" />
       <recent name="D:\phpStudy\WWW\twothink\application\admin\view\default\login" />
@@ -1079,24 +317,27 @@
       <updated>1506652515892</updated>
       <workItem from="1506652517700" duration="20877000" />
       <workItem from="1506684205984" duration="2241000" />
-      <workItem from="1506731667308" duration="8573000" />
+      <workItem from="1506731667308" duration="24597000" />
+      <workItem from="1507016907689" duration="71000" />
+      <workItem from="1507094221174" duration="6337000" />
+      <workItem from="1507189098828" duration="3717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31691000" />
+    <option name="totallyTimeSpent" value="57840000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13353565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18683812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1105,7 +346,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1115,17 +356,17 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18057664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2038168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1141,54 +382,57 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/common/validate/Repair.php">
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thinkphp/library/think/Model.php">
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/index/index1.html" />
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/index/index1.html" />
+    <entry file="file://$PROJECT_DIR$/application/home/controller/Article.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="1045" column="5" lean-forward="true" selection-start-line="1045" selection-start-column="5" selection-end-line="1045" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/default/channel/edit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="43" column="49" lean-forward="true" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/default/channel/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-545">
-          <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Channel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="106" column="11" lean-forward="false" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/default/repair/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="54" column="20" lean-forward="true" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/home/controller/File.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1557">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/home/controller/Error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/notice/index.html" />
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/notice/notice.html" />
+    <entry file="file://$PROJECT_DIR$/application/home/controller/notice.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="578" column="34" lean-forward="false" selection-start-line="578" selection-start-column="34" selection-end-line="578" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/view/default/config/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="50" column="24" lean-forward="false" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1199,314 +443,265 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/home/controller/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-424">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/home/controller/Addons.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6161">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/home/controller/Appstore.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/home/controller/Article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2394">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/File.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Addons.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <element signature="e#470#501#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/install.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/topthink/think-captcha/src/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="58" column="9" lean-forward="false" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/model/Member.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-477">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thinkphp/library/think/Db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1404">
-          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thinkphp/library/think/db/Query.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="929" column="35" lean-forward="true" selection-start-line="929" selection-start-column="35" selection-end-line="929" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Publics.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/validate/Document.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/validate/Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thinkphp/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="175" column="28" lean-forward="false" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/validate/Menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/validate/Repair.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/user/model/AuthRule.php">
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/repair/test.html" />
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/repair/index.html" />
+    <entry file="file://$PROJECT_DIR$/application/user/view/default/login/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/user/model/Member.php">
+    <entry file="file://$PROJECT_DIR$/application/user/view/default/login/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/validate/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/default/publics/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="210">
+          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/admin/view/default/repair/edit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="29" />
+        <state relative-caret-position="413">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="42" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/default/login/login.html" />
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Login.php" />
-    <entry file="file://$PROJECT_DIR$/application/home/controller/Index.php">
+    <entry file="file://$PROJECT_DIR$/application/user/controller/Login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        <state relative-caret-position="432">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/home/model/Repair.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/repair/repair.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="84" column="42" lean-forward="true" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/view/default/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3024">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/model/Modelmodel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkphp/library/think/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="31" column="46" lean-forward="false" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkphp/library/think/db/Query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="941" column="15" lean-forward="true" selection-start-line="941" selection-start-column="15" selection-end-line="941" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/index/content.html" />
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/index/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="43" column="31" lean-forward="false" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Active.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/index/notice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="66" column="15" lean-forward="true" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/home/controller/Home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="27">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/home/view/default/user/login.html">
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/index/service.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="282">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/home/validate/index.html">
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/index/shop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="269">
+          <caret line="53" column="39" lean-forward="true" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/user/controller/User.php">
+    <entry file="file://$PROJECT_DIR$/application/home/controller/Index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="33" column="53" lean-forward="true" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        <state relative-caret-position="404">
+          <caret line="68" column="38" lean-forward="true" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/home/controller/Repair.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/home/view/default/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="71" column="53" lean-forward="false" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Channel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/home/view/default/article/lists.html">
+    <entry file="file://$PROJECT_DIR$/application/admin/view/default/repair/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="216">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Repair.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/jquery-1.11.2.min.js">
+    <entry file="file://$PROJECT_DIR$/application/admin/model/Sale.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/bootstrap/js/npm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/user/view/default/login/index1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1161">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="81">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/admin/model/Repair.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkphp/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="163" column="30" lean-forward="false" selection-start-line="163" selection-start-column="30" selection-end-line="163" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/view/default/article/add.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="306" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Repair.php">
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Article.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        <state relative-caret-position="263">
+          <caret line="139" column="5" lean-forward="true" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/user/controller/Index.php">
+    <entry file="file://$PROJECT_DIR$/application/admin/view/default/sale/edit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="27">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/common/controller/UcApi.php">
+    <entry file="file://$PROJECT_DIR$/application/admin/view/default/sale/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        <state relative-caret-position="243">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/user/controller/Login.php">
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Sale.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/user/view/default/login/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="108">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
           <folding />
         </state>
       </provider>

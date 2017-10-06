@@ -2,7 +2,7 @@
 
 {block name="body"}
 	<div class="main-title">
-		<h2>导航管理</h2>
+		<h2>报修管理</h2>
 	</div>
 
 	<div class="cf">
@@ -40,7 +40,7 @@
 						<td>{$channel.tel}</td>
 						<td>{$channel.address}</td>
 						<td>{$channel.title}</td>
-						<td>{$channel.create_time}</td>
+						<td>{$channel.create_time | time_format }</td>
 						<td>{$channel.status}</td>
 						<td>
 							<a title="编辑" href="{:url('edit?id='.$channel['id'])}">编辑</a>
@@ -55,9 +55,9 @@
 			</tbody>
 		</table>
 	</div>
-{/block}
-
-{block name="script"}
+	<div class="page">
+		{$page}
+	</div>
 <script type="text/javascript">
     $(function() {
     	//点击排序

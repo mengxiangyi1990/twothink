@@ -1,35 +1,36 @@
 <?php
 namespace app\admin\controller;
 
-class Repair extends Admin{
+class Sale extends Admin{
+
 
     /*
-     * 报修列表
+     *  小区租售列表
      */
     public function index(){
         $pid = input('get.pid', 0);
         /* 获取频道列表 */
         //$map  = array('status' => array('gt', -1), 'pid'=>$pid);
-        $list = \think\Db::name('Repair')->order('id desc')->paginate(3);
+        $list = \think\Db::name('Sale')->order('id desc')->paginate(3);
 
         // 获取分页显示
         $page = $list->render();
         $this->assign('list', $list);
         $this->assign('pid', $pid);
         $this->assign('page', $page);
-        $this->assign('meta_title' , '报修管理');
+        $this->assign('meta_title' , '小区租售');
         return $this->fetch();
     }
 
     /*
-     * 添加报修
+     * 添加小区租售信息
      */
     public function add(){
         if(request()->isPost()){
-            $Repari = model('repair');
+            $Repari = model('sale');
             $post_data=\think\Request::instance()->post();
             //自动验证
-            $validate = validate('repair');
+            $validate = validate('sale');
             if(!$validate->check($post_data)){
                 return $this->error($validate->getError());
             }
@@ -38,7 +39,7 @@ class Repair extends Admin{
             if($data){
                 $this->success('新增成功', url('index'));
                 //记录行为
-                action_log('update_repair', 'repair', $data->id, UID);
+                action_log('update_sale', 'sale', $data->id, UID);
             } else {
                 $this->error($Repari->getError());
             }
@@ -46,13 +47,13 @@ class Repair extends Admin{
             $pid = input('pid', 0);
             //获取父导航
             if(!empty($pid)){
-                $parent = \think\Db::name('Repair')->where(array('id'=>$pid))->field('title')->find();
+                $parent = \think\Db::name('Sale')->where(array('id'=>$pid))->field('title')->find();
                 $this->assign('parent', $parent);
             }
 
             $this->assign('pid', $pid);
             $this->assign('info',null);
-            $this->assign('meta_title', '新增报修');
+            $this->assign('meta_title', '新增小区租售信息');
             return $this->fetch('edit');
         }
     }

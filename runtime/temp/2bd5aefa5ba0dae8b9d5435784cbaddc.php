@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:83:"D:\phpStudy\WWW\twothink\public/../application/admin/view/default/repair\index.html";i:1507125901;s:82:"D:\phpStudy\WWW\twothink\public/../application/admin/view/default/public\base.html";i:1496373782;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:81:"D:\phpStudy\WWW\twothink\public/../application/admin/view/default/sale\index.html";i:1507210516;s:82:"D:\phpStudy\WWW\twothink\public/../application/admin/view/default/public\base.html";i:1496373782;}*/ ?>
 <!doctype html>
 <html>
 <head>
@@ -100,80 +100,82 @@
             
 
             
-	<div class="main-title">
-		<h2>报修管理</h2>
-	</div>
+<div class="main-title">
+    <h2>小区租售</h2>
+</div>
 
-	<div class="cf">
-		<a class="btn" href="<?php echo url('add','pid='.$pid); ?>">新 增</a>
-		<a class="btn" href="javascript:;">删 除</a>
-		<button class="btn list_sort" url="<?php echo url('sort',array('pid'=>input('get.pid',0)),''); ?>">排序</button>
-	</div>
+<div class="cf">
+    <a class="btn" href="<?php echo url('add','pid='.$pid); ?>">新 增</a>
+    <a class="btn" href="javascript:;">删 除</a>
+    <button class="btn list_sort" url="<?php echo url('sort',array('pid'=>input('get.pid',0)),''); ?>">排序</button>
+</div>
 
-	<div class="data-table table-striped">
-		<table>
-			<thead>
-				<tr>
-					<th class="row-selected">
-						<input class="checkbox check-all" type="checkbox">
-					</th>
-					<th>ID</th>
-					<th>报修单号</th>
-					<th>报修人</th>
-                    <th>电话</th>
-					<th>地址</th>
-					<th>描述</th>
-					<th>报修时间</th>
-					<th>状态</th>
-					<th>操作</th>
-				</tr>
-			</thead>
-			<tbody>
-				<?php if(!(empty($list) || (($list instanceof \think\Collection || $list instanceof \think\Paginator ) && $list->isEmpty()))): if(is_array($list) || $list instanceof \think\Collection || $list instanceof \think\Paginator): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$channel): $mod = ($i % 2 );++$i;?>
-					<tr>
-						<td><input class="ids row-selected" type="checkbox" name="" id="" value="<?php echo $channel['id']; ?>"> </td>
-						<td><?php echo $channel['id']; ?></td>
-						<td><?php echo $channel['sn']; ?></td>
-						<td><?php echo $channel['name']; ?></td>
-						<td><?php echo $channel['tel']; ?></td>
-						<td><?php echo $channel['address']; ?></td>
-						<td><?php echo $channel['title']; ?></td>
-						<td><?php echo time_format($channel['create_time'] ); ?></td>
-						<td><?php echo $channel['status']; ?></td>
-						<td>
-							<a title="编辑" href="<?php echo url('edit?id='.$channel['id']); ?>">编辑</a>
-							<a href="<?php echo url('setStatus?ids='.$channel['id'].'&status='.abs(1-$channel['status'])); ?>" class="ajax-get"><?php echo show_status_op($channel['status']); ?></a>
-							<a class="confirm ajax-get" title="删除" href="<?php echo url('del?id='.$channel['id']); ?>">删除</a>
-						</td>
-					</tr>
-				<?php endforeach; endif; else: echo "" ;endif; else: ?>
-				<td colspan="6" class="text-center"> aOh! 暂时还没有内容! </td>
-				<?php endif; ?>
-			</tbody>
-		</table>
-	</div>
-	<div class="page">
-		<?php echo $page; ?>
-	</div>
+<div class="data-table table-striped">
+    <table>
+        <thead>
+        <tr>
+            <th class="row-selected">
+                <input class="checkbox check-all" type="checkbox">
+            </th>
+            <th>ID</th>
+            <th>发布人</th>
+            <th>联系电话</th>
+            <th>标题</th>
+            <th>类型</th>
+            <th>价格</th>
+            <th>发布日期</th>
+            <th>结束日期</th>
+            <th>状态</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <?php if(!(empty($list) || (($list instanceof \think\Collection || $list instanceof \think\Paginator ) && $list->isEmpty()))): if(is_array($list) || $list instanceof \think\Collection || $list instanceof \think\Paginator): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$channel): $mod = ($i % 2 );++$i;?>
+        <tr>
+            <td><input class="ids row-selected" type="checkbox" name="" id="" value="<?php echo $channel['id']; ?>"> </td>
+            <td><?php echo $channel['id']; ?></td>
+            <td><?php echo $channel['author']; ?></td>
+            <td><?php echo $channel['tel']; ?></td>
+            <td><?php echo $channel['title']; ?></td>
+            <td><?php echo $channel['type']; ?></td>
+            <td><?php echo $channel['price']; ?>元/月</td>
+            <td><?php echo time_format($channel['create_time'] ); ?></td>
+            <td><?php echo time_format($channel['end_time'] ); ?></td>
+            <td><?php echo $channel['status']; ?></td>
+            <td>
+                <a title="编辑" href="<?php echo url('edit?id='.$channel['id']); ?>">编辑</a>
+                <a href="<?php echo url('setStatus?ids='.$channel['id'].'&status='.abs(1-$channel['status'])); ?>" class="ajax-get"><?php echo show_status_op($channel['status']); ?></a>
+                <a class="confirm ajax-get" title="删除" href="<?php echo url('del?id='.$channel['id']); ?>">删除</a>
+            </td>
+        </tr>
+        <?php endforeach; endif; else: echo "" ;endif; else: ?>
+        <td colspan="6" class="text-center"> aOh! 暂时还没有内容! </td>
+        <?php endif; ?>
+        </tbody>
+    </table>
+</div>
+<div class="page">
+    <?php echo $page; ?>
+</div>
 <script type="text/javascript">
     $(function() {
-    	//点击排序
-    	$('.list_sort').click(function(){
-    		var url = $(this).attr('url');
-    		var ids = $('.ids:checked');
-    		var param = '';
-    		if(ids.length > 0){
-    			var str = new Array();
-    			ids.each(function(){
-    				str.push($(this).val());
-    			});
-    			param = str.join(',');
-    		}
+        //点击排序
+        $('.list_sort').click(function(){
+            var url = $(this).attr('url');
+            var ids = $('.ids:checked');
+            var param = '';
+            if(ids.length > 0){
+                var str = new Array();
+                ids.each(function(){
+                    str.push($(this).val());
+                });
+                param = str.join(',');
+            }
 
-    		if(url != undefined && url != ''){
-    			window.location.href = url + '/ids/' + param;
-    		}
-    	});
+            if(url != undefined && url != ''){
+                window.location.href = url + '/ids/' + param;
+            }
+        });
     });
 </script>
 
